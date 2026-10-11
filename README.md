@@ -1,4 +1,4 @@
-# maithili-demo
+# maithili-student
 This is my first Git repository.
 <br>
-Author-Maithili Bisen
+Author-Maithili Bisen(mahi)
